@@ -13,16 +13,11 @@ No installation is required.
 Usage
 ---
 1. Enter the REPL environment, you can enter code line by line in it.
-
 > $ ./scheme
 >
 > Lisp>>>
-
 2. Evaluate a source file
-
 > $ ./scheme source.scm
-
 3. Load a library
-
 > Lisp>>> (load "stdlib.scm")
 
